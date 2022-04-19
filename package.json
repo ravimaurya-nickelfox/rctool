@@ -21,7 +21,7 @@
     "inquirer": "^7.3.3",
     "lodash": "^4.17.21",
     "minimist": "^1.2.6",
-    "node-cmd": "^4.0.0",
+    "node-cmd": "^5.0.0",
     "node-emoji": "^1.11.0",
     "touch": "^3.1.0"
   }
