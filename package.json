@@ -13,7 +13,7 @@
   "bin": {
     "rctool": "index.js"
   },
-  "keywords": [],
+  "keywords": ["react", "react js", "create react app", "react tool", "react command line tool"],
   "author": "",
   "license": "ISC",
   "dependencies": {
