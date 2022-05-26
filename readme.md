@@ -6,6 +6,7 @@ This is helper command line tool to help you to create ReactJs project with mini
 To install this package, please run bellow commands
 ```bash
 npm i -g @ravi448/rctool
+// OR
 yarn add global @ravi448/rctool
 ```
 Once you're done with global installation, open a new terminal and check if everything is good. Check the package version using
@@ -19,7 +20,7 @@ This must return
 
 This package require minimum effort from you to complete the project setup.
 1. To start a new project, run 
-```bash 
+```bash
 rctool init [project_name]
 ```
 2. Answer the questions asked by CLI and press enter
