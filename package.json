@@ -1,6 +1,6 @@
 {
   "name": "@ravi448/rctool",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "ReactJS command line tool to quickly start a project",
   "repository": {
     "type": "git",
